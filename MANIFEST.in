@@ -1,0 +1,3 @@
+include README.md
+recursive-include andrewblog *.css *.js *.jpg *.gif *.png *.html *.md
+prune andrewblog/andrewblog/static_files
